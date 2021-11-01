@@ -1,0 +1,5 @@
+jdk: 
+  - openjdk10
+language: java
+script: 
+  - ant test
