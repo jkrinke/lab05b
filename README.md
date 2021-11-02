@@ -1,3 +1,3 @@
 # lab05b
 
-Test with Travis CI.
+Test with GitHub Actions.
